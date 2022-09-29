@@ -1,0 +1,33 @@
+*To Interact with Operating System there is only one way we have to Run the program
+*program file == command
+*to store data in hard drive put data into file.
+*progrm runs on the main memory (RAM) then we can interact with program.
+*there are 4 ways to install linux or to use linux
+     1.Bare Metal
+     2.cloud computing 
+          a.azure
+	  b.AWS
+     3.Virtualization
+          a.vmware
+	  b.oracle vmbox
+     4.Containerization
+          a.docker
+	  b.kubernetes
+	  c.openshift
+*oracle vmbox :- the one who can store multiple O.S 
+
+*human brain-->tolearn something -->requires iteration.
+
+*login--> admin account/root user -->unlimited power
+          non root account --> limited power
+
+
+* we can interact with O.S with	  1. GUI
+                                  2. CLI
+				  3.WEB UI --> COCKPIT
+	We will more focus on CLI (command line interface) to interact with OS.
+
+*installed O.S redhat RHEL9 DVD ISO on Oracle vm box.
+*learned some basic stuff about how to use it. 
+
+
