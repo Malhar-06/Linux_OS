@@ -1,0 +1,19 @@
+*starting system == Boot
+*reboot can solve too much things
+
+*learnt some basic commands of linux
+  1. jobs//to see process running in the background
+  2. fg 1 //to put a process from background to foreground
+  3. ping 8.8.8.8 //to check network connectivity
+  4. free -m //to check the RAM space
+  5. which <software name> //gives the location of the program file in the hard disk
+  6. cd <directory name> //to change th directory
+  7. pwd // to see present working directory
+  8. ls // to list the files
+  9. gnome-terminal // to create a new terminal
+  10. clear // to clear the screen
+  11. history //to see all the command run
+  12. echo <text> // to print as it is
+  13. ifconfig // to check IP address in linux
+  14. ipconfig // to check IP address in windows
+  15. who // to check who has logged into the system
